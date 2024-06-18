@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "We prioritize client collaboration, fostering open communication.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "We are flexible with time zone communications.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -28,8 +28,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "Providing the Best",
+    description: "We works in",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Team of tech enthusiast with a passion for building.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently developing Accommodation Management Software",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -59,7 +59,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title: "Do you want to work with us?",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -72,68 +72,80 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "mymedicos",
+    des: "Where Cutting-Edge Medicine Meets Breakthrough Technology",
+    img: "/mnd1.svg",
+    iconLists: [
+      "/firebase.svg",
+      "/swift.svg",
+      "/ts.svg",
+      "/re.svg",
+      "/androidstudio.svg",
+    ],
+    link: "https://play.google.com/store/apps/details?id=com.medical.my_medicos&pcampaignid=web_share",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    title: "Smart AutoClicker",
+    des: "Automate actions depending on what is displayed on your screen.",
+    img: "/mnd2.svg",
+    iconLists: [
+      "/androidstudio.svg",
+      "/swift.svg",
+      "/re.svg",
+      "/firebase.svg",
+      "/c.svg",
+    ],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Fixture",
+    des: "A Multi Brand Ecommerce Website",
+    img: "/mnd3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://new-ecom-pi.vercel.app/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "DevLabs",
+    des: "A Online Course Maker Website for Coachings & Tutors",
+    img: "/mnd5.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://github.com/Devansh1910/Devlabs_Updated",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Choosing ReduxCorporation was the best decision for our digital transformation. Their team developed a robust e-commerce website and mobile application that have truly elevated our customer interaction. The dedication and creativity ReduxCorporation brought to our project were outstanding.",
+    name: "Emma Johnson",
+    title: "CEO, GreenTech Innovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "ReduxCorporation's approach to software solutions is unparalleled. They delivered custom software that perfectly fits our needs, enhancing our operational efficiency. Their team's technical expertise and professional management impressed us throughout the project",
+    name: "Lucas Smith",
+    title: "CTO, Advanced Robotics Ltd.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "As a startup, we were looking for a cost-effective yet impactful design solution, and ReduxCorporation exceeded our expectations. Their design team is top-notch, delivering fresh and engaging graphics that have significantly boosted our branding.",
+    name: "Mia Zhang",
+    title: "Founder, EcoWear Clothing",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "ReduxCorporation has been instrumental in revamping our IT infrastructure. Their comprehensive IT solutions have streamlined our processes, reduced costs, and increased security. We couldn't be happier with the results and the continuous support they provide.",
+    name: "Daniel Carter",
+    title: "Director of IT, HealthPlus Corp",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with ReduxCorporation has been a transformative experience for our organization. Their team not only developed a state-of-the-art website that has significantly improved our online presence but also integrated seamless functionalities that enhance user experience and operational efficiency. Their commitment to excellence and customer satisfaction is truly remarkable.",
+    name: "Sophia Lee",
+    title: "Marketing Director, Luxe Interiors Ltd",
   },
 ];
 
@@ -173,29 +185,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Web Development",
+    desc: "At ReduxCorporation, we specialize in crafting bespoke websites that drive success. Our web development team ensures your site is not only visually appealing but also functionally robust, optimizing for performance and user engagement.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Application Development",
+    desc: "Transform your ideas into reality with our application development services. We build custom mobile and desktop applications that deliver seamless user experiences, leveraging the latest technologies to ensure compatibility and scalability.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software Development",
+    desc: "Our software development services cater to businesses looking to streamline operations and increase efficiency. From system analysis to design and implementation, we provide comprehensive solutions that are tailored to meet your specific business needs.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Designing and UI/UX Services",
+    desc: "Elevate your brand with our design and UI/UX services. Our creative team designs visually stunning and user-friendly interfaces, focusing on creating engaging user experiences that foster brand loyalty and conversion.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
