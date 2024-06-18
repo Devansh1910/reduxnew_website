@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "mymedicos",
     des: "Where Cutting-Edge Medicine Meets Breakthrough Technology",
-    img: "../public/mnd1.svg",
+    img: "https://res.cloudinary.com/dmzp6notl/image/upload/v1718739543/mnd1_kq5ium.svg",
     iconLists: [
       "../public/firebase.svg",
       "../public/swift.svg",
