@@ -19,7 +19,11 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/logonew.png" sizes="any" />
+        <link
+          rel="icon"
+          href="https://res.cloudinary.com/dmzp6notl/image/upload/v1718747002/logoooo_tozlcv.svg"
+          sizes="any"
+        />
       </head>
       <body className={inter.className}>
         <ThemeProvider
